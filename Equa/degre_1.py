@@ -1,0 +1,2 @@
+def solv(equa):
+    pass
